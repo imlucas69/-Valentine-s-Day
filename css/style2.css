@@ -4,7 +4,7 @@ body {
     font-family: "Lobster Two", sans-serif;
     font-weight: 400;
     font-style: italic;
-    background-image: url(../16578.jpg); 
+    background-image: url(../img/16578.jpg); 
     /* background-size: cover; */
     padding: 10px;
     text-align: center;
@@ -44,7 +44,7 @@ body::before {
     left: 0;
     width: 100%;
     height: 100%;
-    background: url(../2r69.gif) center center no-repeat;
+    background: url(../img/2r69.gif) center center no-repeat;
     background-size: cover;
     z-index: 9999;
 }
